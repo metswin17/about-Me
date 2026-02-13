@@ -30,3 +30,12 @@ body {
   padding-left: 30px;
   margin-top: 10px;
 }
+.places-section {
+  margin-top: 20px;
+}
+
+#placesList {
+  display: none;
+  padding-left: 20px;
+  margin-top: 10px;
+}
